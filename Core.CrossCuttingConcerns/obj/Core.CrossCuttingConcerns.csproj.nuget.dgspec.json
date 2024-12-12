@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\OnionCqrs-master\\OnionCqrs-master\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Belgeler\\GitHub\\OnionCqrs-Ecommerce\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\OnionCqrs-master\\OnionCqrs-master\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
+    "C:\\Users\\User\\OneDrive\\Belgeler\\GitHub\\OnionCqrs-Ecommerce\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\OnionCqrs-master\\OnionCqrs-master\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Belgeler\\GitHub\\OnionCqrs-Ecommerce\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
         "projectName": "Core.CrossCuttingConcerns",
-        "projectPath": "C:\\Users\\User\\Downloads\\OnionCqrs-master\\OnionCqrs-master\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Belgeler\\GitHub\\OnionCqrs-Ecommerce\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\OnionCqrs-master\\OnionCqrs-master\\Core.CrossCuttingConcerns\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Belgeler\\GitHub\\OnionCqrs-Ecommerce\\Core.CrossCuttingConcerns\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

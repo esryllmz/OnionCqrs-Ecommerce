@@ -7030,11 +7030,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\OnionCqrs-master\\OnionCqrs-master\\Core.Persistence\\Core.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Belgeler\\GitHub\\OnionCqrs-Ecommerce\\Core.Persistence\\Core.Persistence.csproj",
       "projectName": "Core.Persistence",
-      "projectPath": "C:\\Users\\User\\Downloads\\OnionCqrs-master\\OnionCqrs-master\\Core.Persistence\\Core.Persistence.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Belgeler\\GitHub\\OnionCqrs-Ecommerce\\Core.Persistence\\Core.Persistence.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\OnionCqrs-master\\OnionCqrs-master\\Core.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Belgeler\\GitHub\\OnionCqrs-Ecommerce\\Core.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
